@@ -13,7 +13,7 @@ function Footer({trip}) {
           <div className="flex items-center text-sm text-gray-500">
             <span>Made with</span>
             <Heart size={16} className="mx-1.5 text-red-500 fill-current" />
-            <span>by Md Fardin</span>
+            <span>by Mujahid hussain</span>
           </div>
           
           {/* Copyright */}
@@ -24,14 +24,14 @@ function Footer({trip}) {
           {/* Social links */}
           <div className="flex items-center gap-4 mt-2">
             <a
-              href="mailto:fardinmd654@gmail.com"
+              href="mailto:mujahidhussain5252520@gmail.com"
               className="text-gray-400 hover:text-blue-600 transition-colors"
               aria-label="Email"
             >
               <Mail size={18} />
             </a>
             <a
-              href="https://github.com/fardin654/"
+              href="https://github.com/Mujahid5221"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-gray-900 transition-colors"
@@ -40,7 +40,7 @@ function Footer({trip}) {
               <Github size={18} />
             </a>
             <a
-              href="https://linkedin.com/in/muhammad-fardin/"
+              href="www.linkedin.com/in/mujahid-hussain-b47687274"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-blue-700 transition-colors"
@@ -53,7 +53,7 @@ function Footer({trip}) {
           {/* Built with */}
           <div className="flex items-center text-xs text-gray-400 mt-4">
             <Code size={14} className="mr-1.5" />
-            <span>Built with React & Tailwind CSS</span>
+            <span></span>
           </div>
         </div>
       </div>
